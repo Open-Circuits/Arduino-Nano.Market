@@ -1,0 +1,1 @@
+- [ELEGOO Nano Board CH 340/ATmega+328P Without USB Cable, Compatible with Arduino Nano V3.0 (Nano x 3 Without Cable)](https://www.amazon.com/gp/product/B0713XK923)
