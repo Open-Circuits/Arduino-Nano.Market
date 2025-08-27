@@ -1,1 +1,2 @@
 - [Mini / Type-C / Micro USB Nano 3.0 With bootloader compatible controller for arduino CH340 USB driver 16Mhz ATMEGA328P USB Cable](https://www.aliexpress.us/item/3256806286441000.html)
+- [Mini / Type-C / Micro USB Nano 3.0 With the bootloader compatible Nano controller for arduino CH340 USB driver 16Mhz ATMEGA328P](https://www.aliexpress.us/item/3256805518095032.html)
